@@ -19,17 +19,19 @@ https://www.youtube.com/watch?v=8uNCjq58X5E
 
 1. Install Docker in your device
 
-*Mac*    : > https://docs.docker.com/desktop/install/mac-install/
+   *Mac*    : > https://docs.docker.com/desktop/install/mac-install/
 
-*Ubuntu* : > https://docs.docker.com/engine/install/ubuntu/
+   *Ubuntu* : > https://docs.docker.com/engine/install/ubuntu/
 
-*Windows*: > https://docs.docker.com/desktop/install/windows-install/
+   *Windows*: > https://docs.docker.com/desktop/install/windows-install/
+
 
 2. Download this repository to your device
 
-*Git method*       :   > $ git clone https://github.com/IOInfinityStudio/NextCloudNAS.git
+   *Git method*       :   > $ git clone https://github.com/IOInfinityStudio/NextCloudNAS.git
 
-*Download directly*:   > https://github.com/IOInfinityStudio/NextCloudNAS/archive/refs/heads/main.zip
+   *Download directly*:   > https://github.com/IOInfinityStudio/NextCloudNAS/archive/refs/heads/main.zip
+
 
 3. Modify the .env for DB configuration and Nextcloud's folder and port
 
