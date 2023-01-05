@@ -8,6 +8,8 @@ Try to build NextCloud NAS with Docker container.
 
 ## Video about Installing step by step
 
+https://www.youtube.com/watch?v=8uNCjq58X5E
+
 ![Nextcloud](./YT-share.png)
 
 https://www.youtube.com/watch?v=8uNCjq58X5E
