@@ -4,7 +4,7 @@
 Try to build NextCloud NAS with Docker container.
 
 ## Video about Installing step by step
-![Nextcloud](./Build a NextCloud (NAS) in 30 minutes with Ubuntu and Docker.png)
+![Nextcloud](./YT.png)
 https://www.youtube.com/watch?v=8uNCjq58X5E
 
 ## How to build NextCloud service
